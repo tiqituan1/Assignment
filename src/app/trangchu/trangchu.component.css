@@ -1,0 +1,22 @@
+.trai
+{
+/* border: 2px solid black; */
+float: left;
+width: 70%;
+height: 100%;
+}
+.phai
+{
+    /* border: 2px solid black; */
+    float: left;
+width: 30%;
+height: 100%;
+}
+.nutlui
+{
+    float: left;
+}
+.nuttoi
+{
+    float: right;
+}
